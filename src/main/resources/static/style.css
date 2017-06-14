@@ -1,0 +1,10 @@
+.inputs, #slider {
+    margin: 30px auto;
+}
+.submit {
+    margin-top: 15px;
+}
+h6 {
+    text-align: center;
+    color: #888;
+}
